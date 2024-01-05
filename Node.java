@@ -1,4 +1,4 @@
-package veriyapilari.Binary_Search_Tree;
+package veriyapilari.eBinary_Search_Tree;
 
 public class Node {
     int data;
