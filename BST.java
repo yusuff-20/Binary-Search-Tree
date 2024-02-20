@@ -27,7 +27,7 @@ public class BST {
 
     //BST Silme
     public void Delete(int a){
-        DeleteRecursive(root,a);
+        root = DeleteRecursive(root,a);
     }
 
 
