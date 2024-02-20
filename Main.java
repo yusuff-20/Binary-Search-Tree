@@ -1,4 +1,4 @@
-package veriyapilari.eBinary_Search_Tree;
+package Java.veriyapilari.eBinary_Search_Tree;
 
 public class Main {
     public static void main(String[] args) {
